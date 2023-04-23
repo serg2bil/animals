@@ -283,3 +283,7 @@ a{
 .link>:first-child{
     margin-right: 2%;
 }
+
+title{
+    display: none;
+}
