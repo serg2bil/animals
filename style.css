@@ -258,7 +258,7 @@ a{
     text-align: center;
     color: #ffffff;
     text-decoration: none;
-
+    margin-right: 2%;
 }
 .button{
     border: 2px white solid;
@@ -280,8 +280,8 @@ a{
     display: flex;
     justify-content: center;
 }
-.link>:first-child{
-    margin-right: 2%;
+.link>:last-child{
+    margin-right:0;
 }
 
 title{
